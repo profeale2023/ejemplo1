@@ -28,6 +28,7 @@ Partial Class Form1
         Me.TxtResultado = New System.Windows.Forms.TextBox()
         Me.TxtResultado2 = New System.Windows.Forms.TextBox()
         Me.TxtResultado3 = New System.Windows.Forms.TextBox()
+        Me.Button1 = New System.Windows.Forms.Button()
         Me.SuspendLayout()
         '
         'BtnPerro1
@@ -78,11 +79,21 @@ Partial Class Form1
         Me.TxtResultado3.Size = New System.Drawing.Size(378, 20)
         Me.TxtResultado3.TabIndex = 5
         '
+        'Button1
+        '
+        Me.Button1.Location = New System.Drawing.Point(296, 284)
+        Me.Button1.Name = "Button1"
+        Me.Button1.Size = New System.Drawing.Size(94, 32)
+        Me.Button1.TabIndex = 6
+        Me.Button1.Text = "Salir"
+        Me.Button1.UseVisualStyleBackColor = True
+        '
         'Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(404, 450)
+        Me.Controls.Add(Me.Button1)
         Me.Controls.Add(Me.TxtResultado3)
         Me.Controls.Add(Me.TxtResultado2)
         Me.Controls.Add(Me.TxtResultado)
@@ -102,4 +113,5 @@ Partial Class Form1
     Friend WithEvents TxtResultado As TextBox
     Friend WithEvents TxtResultado2 As TextBox
     Friend WithEvents TxtResultado3 As TextBox
+    Friend WithEvents Button1 As Button
 End Class

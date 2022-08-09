@@ -25,4 +25,8 @@
         Me.TxtResultado2.Text = perrito.ladrar("Poco")
         'Me.TxtResultado3.Text = perrito.ladrar("Poco")
     End Sub
+
+    Private Sub Button1_Click_1(sender As Object, e As EventArgs) Handles Button1.Click
+        End
+    End Sub
 End Class

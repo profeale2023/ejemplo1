@@ -46,3 +46,15 @@ D:\recuperado\ARCHIVOS ALEJANDRA\2022\00. Laboratorio\poo1\poo1\obj\Debug\poo1.v
 D:\recuperado\ARCHIVOS ALEJANDRA\2022\00. Laboratorio\poo1\poo1\obj\Debug\poo1.exe
 D:\recuperado\ARCHIVOS ALEJANDRA\2022\00. Laboratorio\poo1\poo1\obj\Debug\poo1.xml
 D:\recuperado\ARCHIVOS ALEJANDRA\2022\00. Laboratorio\poo1\poo1\obj\Debug\poo1.pdb
+D:\poo1\poo1\bin\Debug\poo1.exe.config
+D:\poo1\poo1\bin\Debug\poo1.exe
+D:\poo1\poo1\bin\Debug\poo1.pdb
+D:\poo1\poo1\bin\Debug\poo1.xml
+D:\poo1\poo1\obj\Debug\poo1.vbproj.AssemblyReference.cache
+D:\poo1\poo1\obj\Debug\poo1.Form1.resources
+D:\poo1\poo1\obj\Debug\poo1.Resources.resources
+D:\poo1\poo1\obj\Debug\poo1.vbproj.GenerateResource.cache
+D:\poo1\poo1\obj\Debug\poo1.vbproj.CoreCompileInputs.cache
+D:\poo1\poo1\obj\Debug\poo1.exe
+D:\poo1\poo1\obj\Debug\poo1.xml
+D:\poo1\poo1\obj\Debug\poo1.pdb
